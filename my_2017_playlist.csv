@@ -1,0 +1,101 @@
+,artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature,Era_pred
+0,David Arnold,Sherlock Series 4: The Final Problem (Original Television Soundtrack),Who You Really Are,24xTylaPWS5iVVCxwTTkcv,0.224,0.273,9,-15.592,0,0.0558,0.905,0.0867,0.126,129.479,155773,4,60
+1,The Chainsmokers,Something Just Like This,Something Just Like This,1dNIEtp7AY3oDAKCGg2XkH,0.607,0.649,11,-6.695,0,0.0362,2.46e-05,0.174,0.505,102.996,247627,4,70
+2,Alvaro Soler,Eterno Agosto,Sofia,1VoHrSS3QQ6TbpabLrFiYb,0.691,0.72,2,-5.918,1,0.0324,0.0,0.15,0.906,128.014,210467,4,90
+3,Coldplay,Viva La Vida or Death and All His Friends,Viva La Vida,1mea3bSkSGXuIRvnydlB5b,0.485,0.619,5,-7.115,0,0.0289,3.31e-06,0.109,0.416,138.017,242373,4,50
+4,Westlife,Coast To Coast,Uptown Girl - Radio Edit,2sFp6E7lNBbblJGmUtCfFH,0.645,0.921,6,-5.256,0,0.0302,1.08e-05,0.407,0.864,129.0,186440,4,00
+5,Coldplay,A Sky Full of Stars,A Sky Full of Stars,6HFbq7cewJ7rPiffV0ciil,0.545,0.675,6,-6.468,1,0.0279,0.00197,0.214,0.16,124.973,267867,4,10
+6,Coldplay,A Head Full of Dreams,Adventure of a Lifetime,69uxyAqqPIsUyTO8txoP2M,0.638,0.924,7,-3.887,1,0.0359,0.000173,0.149,0.529,111.995,263787,4,10
+7,Blue,Best Of Blue,All Rise,0OJtYfqiz0Xn53o2TnySQC,0.738,0.692,5,-4.349,0,0.0315,0.0,0.126,0.94,97.99,224133,4,10
+8,Westlife,Coast To Coast,When You're Looking Like That - Single Remix,5t3oszlshIPTzpAwcCMqgw,0.597,0.945,6,-3.845,1,0.0497,0.0,0.0654,0.939,147.908,232827,4,70
+9,Backstreet Boys,Backstreet's Back,Everybody (Backstreet's Back) - Radio Edit,6hDH3YWFdcUNQjubYztIsG,0.731,0.853,10,-4.219,0,0.0363,0.0,0.268,0.605,108.016,225360,4,90
+10,Coldplay,Clocks,Clocks,2Ygs64z9ywJGakuKU8tr6o,0.577,0.749,5,-7.215,0,0.0279,0.0112,0.183,0.261,130.969,307880,4,80
+11,*NSYNC,No Strings Attached,Bye Bye Bye,62bOmKYxYg7dhrC6gH9vFn,0.61,0.926,8,-4.843,0,0.0479,0.0012,0.0821,0.861,172.638,200400,4,10
+12,Coldplay,Magic,Magic,27jdUE1EYDSXZqhjuNxLem,0.738,0.483,6,-8.915,0,0.0403,0.616,0.106,0.355,93.458,285014,4,00
+13,Coldplay,Ghost Stories Live 2014,"A Sky Full of Stars - Live at the Royal Albert Hall, London",2WXTF0qgKbczC2O8VymeLO,0.467,0.765,6,-7.846,1,0.0311,5.93e-05,0.708,0.186,125.013,278267,4,60
+14,Shakira,"Oral Fixation, Vol. 2 (Expanded Edition)",Hips Don't Lie (feat. Wyclef Jean),3ZFTkvIE7kyPt6Nu3PEa7V,0.778,0.824,10,-5.892,0,0.0712,0.0,0.405,0.756,100.024,218093,4,10
+15,Westlife,Westlife,If I Let You Go - Radio Edit,5giCRvTkp5GV5UIAORAOof,0.571,0.697,0,-4.255,1,0.0294,0.0,0.0775,0.636,181.987,221533,4,60
+16,Backstreet Boys,Black & Blue,Shape of My Heart,35o9a4iAfLl5jRmqMX9c1D,0.575,0.786,9,-4.353,1,0.0296,0.0,0.159,0.518,96.102,230093,4,00
+17,Coldplay,Midnight,Midnight,0UrvIS9YOQL814w4LCtNGB,0.548,0.475,1,-12.42,1,0.0355,0.808,0.0944,0.0349,126.976,294667,4,70
+18,Westlife,Greatest Hits,Swear It Again - Radio Edit,4suhxpsuFo9CdUVyOYB6Kl,0.57,0.586,9,-5.986,1,0.0297,0.0,0.12,0.327,130.097,247627,4,00
+19,Various Artists,Aladdin Original Broadway Cast Recording,Genie Medley,2ejvfR8r689tn0lyIwCNuo,0.514,0.313,9,-12.017,0,0.352,0.0,0.448,0.619,79.862,243747,4,50
+20,Backstreet Boys,The Hits--Chapter One,I Want It That Way,6e40mgJiCid5HRAGrbpGA6,0.689,0.702,6,-5.642,0,0.0261,0.0,0.159,0.484,99.031,213600,4,00
+21,Blue,One Love,One Love,2W5acFzXf5FrktecuD30Or,0.683,0.722,8,-4.039,0,0.0358,4.2e-05,0.35,0.854,95.012,207187,4,00
+22,Coldplay,A Head Full of Dreams,Hymn for the Weekend,3RiPr603aXAoi4GHyXx0uy,0.49,0.743,0,-5.155,0,0.0409,7.21e-06,0.3,0.363,89.974,258827,4,10
+23,Coldplay,In My Place,In My Place,2aXZp30TocFnABRPF1Isrl,0.434,0.563,9,-6.503,1,0.0266,1.44e-06,0.191,0.22,72.332,228933,4,50
+24,Coldplay,Don't Panic,Don't Panic,62XuJOHM33VyWgKwNoj6w9,0.602,0.612,0,-8.409,1,0.0335,0.00616,0.107,0.453,122.062,136867,4,70
+25,AC/DC,Back In Black,Shoot to Thrill,0C80GCp0mMuBzLf3EAXqxv,0.457,0.904,2,-5.303,1,0.0747,0.0879,0.396,0.48,141.038,317427,4,00
+26,The Proclaimers,Finest,I'm Gonna Be (500 Miles),66S14BkJDxgkYxLl5DCqOz,0.851,0.551,4,-5.177,1,0.0396,0.0,0.0827,0.807,131.922,219467,4,80
+27,Backstreet Boys,The Very Best Of,Larger Than Life,4H2Va4mQ87IkLgysXnRRlK,0.66,0.966,10,-3.808,1,0.035,5.44e-05,0.657,0.754,108.03,232133,4,90
+28,Coldplay,A Head Full of Dreams,A Head Full of Dreams,6f49kbOuQSOsStBpyGvQfA,0.45,0.92,11,-4.982,1,0.0733,0.0201,0.334,0.0773,122.979,223773,4,10
+29,Kylie Minogue,Fever,Can't Get You out of My Head,3E7ZwUMJFqpsDOJzEkBrQ7,0.766,0.563,9,-7.516,0,0.0339,0.683,0.115,0.964,126.007,230640,4,10
+30,The Killers,Hot Fuss,Mr. Brightside,3n3Ppam7vgaVa1iaRUc9Lp,0.355,0.918,1,-4.36,1,0.0746,0.0,0.0971,0.24,148.114,222200,4,00
+31,Coldplay,Yellow,Yellow,3e0wYnFxkqinmtXebYPMSt,0.429,0.661,11,-7.227,1,0.0281,0.00013,0.234,0.285,173.365,266773,4,90
+32,Westlife,Coast To Coast,I Lay My Love on You - Remix,0V82wcNlunw76nvvmPL9tk,0.664,0.787,0,-5.246,1,0.0239,0.0,0.193,0.588,102.95,208600,4,90
+33,Pentatonix,"PTX, Vol. 2",Daft Punk,6ukvsBzq4d1vBsAUmz7ZVt,0.717,0.621,11,-7.588,0,0.0605,0.0,0.144,0.72,133.014,248560,4,50
+34,Blue,All Rise,If You Come Back,6nV2SYnWxCg0Cnmz1GSh2H,0.582,0.707,10,-4.487,1,0.0319,0.0,0.0467,0.701,78.375,207560,4,00
+35,Green Day,American Idiot,American Idiot,6nTiIhLmQ3FWhvrGafw2zj,0.38,0.988,1,-2.042,1,0.0639,7.86e-05,0.368,0.769,186.113,176346,4,00
+36,Linkin Park,Hybrid Theory (Bonus Edition),In the End,60a0Rd6pjrkxjPbaKzXjfq,0.556,0.864,3,-5.87,0,0.0584,0.0,0.209,0.4,105.143,216880,4,00
+37,Coldplay,Kaleidoscope EP,Miracles (Someone Special),6uJwPeBGb3swi85TSr9iIz,0.626,0.822,6,-5.501,1,0.0434,0.000296,0.139,0.374,97.003,276907,4,10
+38,*NSYNC,No Strings Attached,It's Gonna Be Me,35zGjsxI020C2NPKp2fzS7,0.644,0.874,0,-4.666,0,0.0801,2.24e-06,0.0584,0.882,165.09,191040,4,00
+39,David Bowie,Heroes,Heroes - 1999 Remaster,5j6ZZwA9BnxZi5Bk0Ng4jB,0.478,0.774,7,-6.977,1,0.0292,0.585,0.191,0.429,112.577,370373,4,80
+40,Santana,Supernatural (Remastered),Smooth (feat. Rob Thomas),0n2SEXB2qoRQg171q7XqeW,0.609,0.923,9,-3.908,1,0.0338,4.73e-06,0.295,0.961,115.996,294987,4,10
+41,Maroon 5,Songs About Jane,This Love,5zF2zGPkL6Ipsn9AfAK6RP,0.714,0.868,5,-4.596,0,0.0363,0.0,0.0987,0.78,95.05,206200,4,00
+42,Coldplay,Ghost Stories,Always in My Head,0FMjqbY3aWo1QDbo3GwXib,0.499,0.502,5,-9.307,1,0.0254,0.687,0.068,0.0397,97.544,216627,3,00
+43,Vanessa Carlton,Be Not Nobody,A Thousand Miles,5y69gQtK33qxb8a24ACkCy,0.559,0.845,11,-3.871,1,0.0379,0.0,0.164,0.304,94.915,237493,4,00
+44,Avril Lavigne,Let Go,Sk8er Boi,4omisSlTk6Dsq2iQD7MA07,0.487,0.9,0,-4.417,1,0.0482,0.0,0.358,0.484,149.937,204000,4,00
+45,Coldplay,Shiver,Shiver,6LFG5WLD8KWSb308OU35q9,0.397,0.803,4,-6.186,1,0.0488,0.0,0.0688,0.286,116.707,304200,3,80
+46,The Corrs,In Blue,Breathless,5OQGeJ1ceykovrykZsGhqL,0.607,0.82,11,-7.754,1,0.0597,6.8e-05,0.269,0.768,126.988,207507,4,00
+47,Usher,Confessions (Expanded Edition),Yeah! (feat. Lil Jon & Ludacris),5rb9QrpfcKFHM1EUbSIurX,0.894,0.791,2,-4.699,1,0.112,0.0,0.0388,0.583,105.018,250373,4,90
+48,Santana,Ultimate Santana,The Game of Love (feat. Michelle Branch) - Main / Radio Mix,56hSJsDC7xZSC3QZ2xaCcf,0.595,0.932,2,-3.255,1,0.0496,0.000329,0.0608,0.672,119.81,254213,4,00
+49,Alicia Keys,As I Am,No One,0JEqGkvUiMTQmFY6sgL9kg,0.649,0.552,1,-5.419,0,0.0292,6.47e-06,0.111,0.158,89.969,253813,4,10
+50,Red Hot Chili Peppers,By the Way (Deluxe Edition),By the Way,1f2V8U1BiWaC9aJWmpOARe,0.451,0.97,0,-4.938,1,0.107,0.00355,0.102,0.198,122.444,216933,4,10
+51,Coldplay,Speed of Sound,Speed of Sound,1ExW9geJzAZZH0xzsWvCcw,0.52,0.898,11,-6.783,0,0.0553,0.0251,0.0731,0.34,123.054,291547,4,90
+52,The Rasmus,Dead Letters,In the Shadows,1fr92Vupmcs2vgLMFVQ7rd,0.6,0.796,2,-4.481,1,0.0275,5.2e-05,0.484,0.75,105.991,257920,4,00
+53,Keane,Hopes And Fears,Everybody's Changing,0yac0FPhLRH9i9lOng3f81,0.517,0.839,0,-3.521,1,0.0287,0.000365,0.108,0.416,94.015,215880,4,00
+54,Muse,Black Holes and Revelations,Starlight,3skn2lauGk7Dx6bVIt5DVj,0.55,0.874,4,-4.046,1,0.0321,1.02e-05,0.206,0.318,121.61,240213,4,00
+55,Justin Timberlake,FutureSex/LoveSounds,SexyBack (feat. Timbaland),0O45fw2L5vsWpdsOdXwNAR,0.967,0.583,7,-5.562,0,0.0789,0.0,0.0519,0.964,117.0,242733,4,10
+56,Coldplay,The Scientist,The Scientist,2LTl1pU074hnzAdy0SpHAb,0.572,0.417,5,-7.991,1,0.024,1.67e-05,0.11,0.207,146.415,311427,4,80
+57,Limp Bizkit,Chocolate Starfish And The Hot Dog Flavored Water,Rollin' (Air Raid Vehicle),1jH2IzZ7JnixFoGG6XSnpf,0.604,0.931,9,-3.326,1,0.175,0.0,0.271,0.682,96.249,213760,4,00
+58,Voctave,The Corner of Broadway and Main Street,Disney Showstoppers,7IRCb6V9F8GBCatQdJgLZh,0.438,0.376,0,-10.338,1,0.0381,0.0,0.17,0.618,126.354,219481,5,70
+59,Black Eyed Peas,Elephunk (International Version),Where Is The Love?,0uqPG793dkDDN7sCUJJIVC,0.835,0.687,5,-3.18,1,0.184,0.0,0.132,0.828,94.059,272533,4,00
+60,Nelly Furtado,"Whoa, Nelly! (France Only Version)",I'm Like A Bird,5xPQsTrT2LjidijK2Tzlxh,0.623,0.605,10,-5.113,1,0.0353,3.46e-06,0.227,0.616,89.656,243160,4,00
+61,Eminem,Curtain Call (Deluxe),"Lose Yourself - From ""8 Mile"" Soundtrack",7w9bgPAmPTtrkt2v16QWvQ,0.701,0.728,2,-4.554,1,0.255,0.00115,0.361,0.0591,171.388,326467,4,90
+62,Coldplay,Strawberry Swing,Strawberry Swing,06inBM2SUiyg3nGDC2KvUG,0.195,0.669,1,-10.457,1,0.0601,0.788,0.238,0.428,173.12,249667,4,80
+63,Ashlee Simpson,Autobiography (International Version),Pieces Of Me,5IIQ7vg9HvA4QSNtFDGJVT,0.505,0.799,2,-4.286,1,0.077,0.0,0.11,0.772,173.999,217440,4,90
+64,Voctave,The Corner of Broadway and Main Street,Disney Princess Medley,11wHsdbtHQfcl1sasyZj0m,0.22,0.17,0,-13.348,0,0.0358,3.79e-06,0.109,0.104,90.033,398341,4,50
+65,Queen,A Night At The Opera (2011 Remaster),Bohemian Rhapsody - Remastered 2011,1AhDOtG9vPSOmsWgNW0BEY,0.414,0.404,0,-9.928,0,0.0499,0.0,0.3,0.224,71.105,354320,4,90
+66,OutKast,Speakerboxxx/The Love Below,Hey Ya!,2PpruBYCo4H7WOBJ7Q2EwM,0.728,0.974,4,-2.261,0,0.0665,0.000532,0.175,0.965,79.526,235213,4,10
+67,Coldplay,A Rush of Blood to the Head,God Put a Smile upon Your Face,4hf0hL4kWyjWztZzVsM39V,0.612,0.557,9,-5.757,1,0.0289,7.65e-05,0.0359,0.242,126.533,297307,4,00
+68,Beyoncé,Dangerously In Love,Crazy In Love (feat. Jay-Z),0TwBtDAWpkpM3srywFVOV5,0.664,0.758,2,-6.583,0,0.21,0.0,0.0598,0.701,99.259,235933,4,10
+69,Alvaro Soler,Eterno Agosto,El Mismo Sol,2mjqNvy3WT62V1mVZjK1nQ,0.72,0.875,8,-4.758,0,0.0552,1.15e-06,0.0748,0.94,112.989,188093,4,00
+70,Chris Cornell,Carry On (International Version),"You Know My Name - From ""Casino Royale"" Soundtrack",4HHIVS7mHAXqXVebo3k5Um,0.371,0.86,11,-3.263,0,0.0464,0.0,0.316,0.376,137.405,240120,4,00
+71,Coldplay,All I Can Think About Is You,All I Can Think About Is You,4gDyoe1FImDlXVt58ssnMf,0.348,0.712,5,-6.412,1,0.0335,0.702,0.0683,0.424,73.102,274587,4,00
+72,Mark Ronson,Uptown Special,Uptown Funk (feat. Bruno Mars),32OlwWuMpZ6b0aN2RZOeMS,0.856,0.609,0,-7.223,1,0.0824,8.15e-05,0.0344,0.928,114.988,269667,4,80
+73,Alexandre Desplat,Unbroken (Original Motion Picture Soundtrack),Miracles,1byIZa6CFerX5WXShwqAvf,0.35,0.572,5,-8.399,1,0.0253,0.0214,0.146,0.109,93.013,235343,4,00
+74,Simple Plan,Still Not Getting Any,Welcome to My Life,10rChmECwPcvTTj4w07hq4,0.421,0.858,1,-4.535,1,0.0963,0.0,0.067,0.491,173.255,206773,4,90
+75,AC/DC,Back In Black,Back In Black,08mG3Y1vljYA6bvDt4Wqkj,0.31,0.7,9,-5.678,1,0.047,0.00965,0.0828,0.763,188.386,255493,4,10
+76,Alvaro Soler,Eterno Agosto,Animal,2h7QJ8qTrSjAzLaGb46IEO,0.681,0.826,9,-5.564,0,0.0396,0.0,0.0348,0.634,97.971,234360,4,00
+77,Robbie Williams,Swing When You're Winning,Somethin' Stupid,4kSKacywUJHdhyst4PL6pl,0.654,0.515,0,-12.185,1,0.0261,5.62e-06,0.174,0.677,106.191,170493,4,60
+78,Coldplay,Lost!,Lost+ (with Jay-Z),4SwVcoBjjawbnexIiUDLc5,0.242,0.804,7,-7.019,1,0.0595,0.515,0.36,0.402,174.247,256903,4,00
+79,Linkin Park,Meteora,Faint,4Yf5bqU3NK4kNOypcrLYwU,0.554,0.978,4,-3.554,1,0.131,0.0,0.0731,0.594,135.095,162600,4,80
+80,David Bowie,Hunky Dory (2015 Remastered Version),Life on Mars? - 2015 Remaster,3ZE3wv8V3w2T2f7nOCjV0N,0.442,0.384,10,-14.635,1,0.0414,7.7e-05,0.0539,0.216,123.281,235987,4,70
+81,Arctic Monkeys,"Whatever People Say I Am, That's What I'm Not",I Bet You Look Good On The Dancefloor,3DQVgcqaP3iSMbaKsd57l5,0.535,0.948,6,-4.19,0,0.0356,0.0,0.376,0.778,103.183,173680,4,00
+82,Robbie Williams,Swing When You're Winning,"Well, Did You Evah",1oEIJOMsKbIGTZL1TmM6xw,0.455,0.473,3,-8.944,1,0.0955,0.0,0.106,0.427,144.959,230000,4,10
+83,U2,How To Dismantle An Atomic Bomb,Vertigo,1gVVSmhWjci8l9Vrsl6HaS,0.416,0.819,9,-3.974,1,0.0613,0.00108,0.147,0.632,140.083,193520,4,00
+84,Coldplay,Brothers & Sisters,Only Superstition,4eJNA83TrqZ3S6LSyK8rSf,0.412,0.797,9,-9.138,0,0.0285,4.77e-05,0.0888,0.676,87.297,228667,4,80
+85,Alvaro Soler,Animal (Acoustic Version),Animal - Acoustic Version,3RsFdo03XNUIhjIVOAdRMn,0.762,0.826,6,-5.441,0,0.039,1.74e-05,0.101,0.738,96.005,219027,4,00
+86,The Verve,Urban Hymns,Bitter Sweet Symphony,5yEPxDjbbzUzyauGtnmVEC,0.389,0.889,9,-6.546,1,0.0442,0.0,0.463,0.524,171.121,358427,4,90
+87,blink-182,Enema Of The State,All The Small Things,12qZHAeOyTf93YAWvGDTat,0.442,0.893,0,-4.878,1,0.0505,0.0,0.529,0.712,148.119,168000,4,00
+88,System Of A Down,Toxicity,Chop Suey!,7kwiwQhWRBSP1PJv4ZFJUK,0.42,0.929,7,-3.899,0,0.121,0.000747,0.122,0.3,127.204,210240,4,10
+89,Bon Jovi,Slippery When Wet,Livin' On A Prayer,2tyW1uBUnYMKAFEfKDKi9B,0.559,0.687,0,-10.912,1,0.0311,3.59e-05,0.0896,0.854,122.666,250307,4,70
+90,Coldplay,A L I E N S,A L I E N S,6pwvH9LfroBLqd3dez9vBz,0.425,0.878,9,-4.979,0,0.038,0.000898,0.206,0.252,148.002,282427,5,10
+91,Morat,"Yo Contigo, Tú Conmigo (The Gong Gong Song / El Tema De La Película ""Gru 3 Mi Villano Favorito"")","Yo Contigo, Tú Conmigo - The Gong Gong Song / El Tema De La Película ""Gru 3 Mi Villano Favorito""",0zQ9yIFLb43bTFE6eu92FN,0.727,0.669,10,-6.878,0,0.151,0.0,0.0639,0.893,94.006,177947,4,00
+92,Audioslave,Out of Exile,Be Yourself,7r9ZTgy31yObGZE6ZYDlQg,0.423,0.845,11,-3.509,0,0.0559,5.07e-06,0.213,0.317,116.602,278973,4,10
+93,Keane,The Best Of Keane (Deluxe Edition),Is It Any Wonder?,64rOSkztPrTECtWTB0F2OD,0.485,0.922,11,-4.918,0,0.0344,0.000539,0.315,0.814,129.347,185813,4,00
+94,Kahitna,Cantik,Cantik,2uyspZLecy9ZSoz27c6JTm,0.631,0.739,4,-5.686,0,0.0774,0.0,0.275,0.487,161.304,240333,4,00
+95,Coldplay,The Blue Room,See You Soon,1uKzAldJYlwje9HstlwTie,0.369,0.295,4,-12.779,1,0.0351,1.54e-05,0.107,0.211,92.226,171373,4,70
+96,Alvaro Soler,Animal (Remixes),Animal - DJ Katch Remix,7nG8COpem7ESEGYmWqsC3u,0.814,0.837,9,-4.851,0,0.0626,4.95e-05,0.143,0.529,108.02,216667,4,90
+97,Red Hot Chili Peppers,Californication (Deluxe Edition),Around the World,0aGQHMr7bc23Y9Ts84ffop,0.504,0.96,0,-1.464,1,0.183,0.569,0.0613,0.774,96.682,238733,4,10
+98,Franz Ferdinand,Franz Ferdinand,Take Me Out,6ooluO7DiEhI1zmK94nRCM,0.278,0.676,9,-8.821,1,0.0371,0.000899,0.136,0.494,104.545,237027,4,70
+99,Robbie Williams,Swing When You're Winning,Ain't That A Kick In The Head,0KvgnmY3al4510sIsAA201,0.642,0.577,0,-8.633,0,0.115,0.0,0.401,0.492,128.492,147960,4,80
